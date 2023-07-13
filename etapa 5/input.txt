@@ -1,0 +1,11 @@
+char a;
+int main() {
+   int a;
+   a = 1;
+   int c;
+   c = a;
+}
+
+bool foo() {
+   c = 2;
+}

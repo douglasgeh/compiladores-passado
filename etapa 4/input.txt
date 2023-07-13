@@ -1,0 +1,71 @@
+// Testando as variáveis globais
+//float a;
+// int a[10];
+// bool e;
+// char f;
+// float h,a;
+
+int main() {
+   char a;
+   a = false;
+}
+
+// // Testando as variáveis globais multidimensionais
+// int i[12];
+// int i[1^2];
+// int i[1^2^3^4^5^6^7^8^9^10^11^12];
+
+// // int minhafuncao ()
+// // {
+// //   return 7;
+// // }
+
+// // int outraFuncao (int parametroUm, int parametroDois)
+// // {
+// //   return 8;
+// // }
+
+// int outraFuncao()
+// {
+//   if (true) then {
+//     a = b - 5;
+//   } else {
+//     c = b+1;
+//   };
+//   while (false) {
+//     a = a;
+//   };
+// }
+
+// Correta não aceita
+// asl005  ok
+// asl006  ok
+// asl012  ok
+// asl014  ok
+// asl015  ok
+// asl016  ok
+// asl017  ok
+// asl027  ok
+// asl028  ok
+// asl029  ok
+// asl030  ok
+// asl031  ok
+// asl033  ok
+// asl057  ok
+// asl058  ok
+// asl071  ok
+// asl074  ok
+// asl090  ok
+
+// Errada aceita
+// asl113 ok
+
+
+// Arrumando 5 cagou
+// asl034  ok
+// asl067  ok
+
+// Entradas a verificar
+// w07
+// w08  
+// w15
